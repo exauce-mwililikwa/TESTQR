@@ -1,0 +1,16 @@
+D:\MES PROJET\TESTQR\TESTQR\bin\Debug\TESTQR.exe.config
+D:\MES PROJET\TESTQR\TESTQR\obj\Debug\TESTQR.Form1.resources
+D:\MES PROJET\TESTQR\TESTQR\obj\Debug\TESTQR.Properties.Resources.resources
+D:\MES PROJET\TESTQR\TESTQR\obj\Debug\TESTQR.csproj.GenerateResource.Cache
+D:\MES PROJET\TESTQR\TESTQR\bin\Debug\TESTQR.exe
+D:\MES PROJET\TESTQR\TESTQR\bin\Debug\TESTQR.pdb
+D:\MES PROJET\TESTQR\TESTQR\bin\Debug\AForge.Video.DirectShow.dll
+D:\MES PROJET\TESTQR\TESTQR\bin\Debug\zxing.dll
+D:\MES PROJET\TESTQR\TESTQR\obj\Debug\TESTQR.exe
+D:\MES PROJET\TESTQR\TESTQR\obj\Debug\TESTQR.pdb
+D:\MES PROJET\TESTQR\TESTQR\bin\Debug\AForge.dll
+D:\MES PROJET\TESTQR\TESTQR\bin\Debug\AForge.Video.dll
+D:\MES PROJET\TESTQR\TESTQR\bin\Debug\AForge.xml
+D:\MES PROJET\TESTQR\TESTQR\bin\Debug\AForge.Video.xml
+D:\MES PROJET\TESTQR\TESTQR\bin\Debug\AForge.Video.DirectShow.xml
+D:\MES PROJET\TESTQR\TESTQR\obj\Debug\TESTQR.csprojResolveAssemblyReference.cache
